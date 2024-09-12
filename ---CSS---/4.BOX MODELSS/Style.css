@@ -1,0 +1,30 @@
+div{
+    background-color: yellow;
+    height: 200px;
+    width: 300px;
+    border-radius: 20px;
+    border-color: red;
+    border-style:groove;
+    padding: 20px 20px 20px 20px;
+    margin-bottom: 20px;
+
+}
+h1{
+    background-color: brown;
+    border: 5px black solid;
+    width: 250px;
+    margin: 20px;
+    padding: 10px;
+
+}
+button{
+    color: white;
+    background-color: maroon;
+    font-weight: bolder;
+    font-size: x-large;
+    border:5px solid black;
+    border-radius: 15px;
+    padding-left:20px;
+    padding-right: 20px;
+  
+}

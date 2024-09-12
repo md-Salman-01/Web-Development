@@ -1,0 +1,92 @@
+*{
+ background-color: white;
+}
+
+h1{
+  color:maroon;
+  text-decoration: double underline;
+  width: 95px;
+  
+}
+
+#login{
+    color: white;
+    background-color: maroon;
+    border-radius: 10px;
+}
+
+#signup{
+    color: white;
+    background-color:mediumslateblue;
+    border-radius: 10px;
+}
+
+.vote{
+     color: white;
+     background-color:maroon;  
+     box-shadow: 5px 5px 10px black;   
+}
+
+.ans{
+    color:white;
+    background-color: mediumslateblue;
+    box-shadow: 5px 5px 10px black;
+}
+
+a{
+    text-transform:lowercase;
+    color:black;
+    background-color:mediumslateblue;
+}
+
+h3{
+    text-decoration: black underline;
+}
+
+h4{
+   color: black;
+   text-transform: uppercase;
+   font-weight:bolder;
+}
+
+.text{
+    color: white;
+    background-color:maroon;
+}
+
+.Pass{
+    color: white;
+    background-color: maroon;
+}
+
+#user{
+    color: black;
+     font-weight:bolder;
+}
+
+#Pass{
+    color: black;
+    font-weight: bolder;
+}
+
+main p{
+    font-weight: bolder;
+    color:maroon; 
+    text-transform: uppercase;
+}
+#login:hover{
+    transition: 1s;
+    box-shadow: 15px 15px 20px maroon;
+}
+
+h1:hover{
+    transition: 1s;
+  box-shadow: 10px 10px 15px maroon;
+}
+#signup:hover{
+    transition: 1s;
+  box-shadow: 15px 15px 20px mediumslateblue;
+
+}
+
+

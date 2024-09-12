@@ -1,0 +1,31 @@
+#flex{
+    height: 500px;
+    width: 500px;
+    background-color:wheat;
+    border: 2px solid black;
+    margin: 10px auto;
+    font-size: 1.5em;
+    color: white;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    align-items:flex-start;
+    /* align-content:flex-end; */
+    
+}
+
+#r{
+    align-self:flex-end;
+}
+
+
+#flex div{
+    height: 100px;
+    width: 100px;
+
+}
+
+h1{
+    text-align: center;
+}

@@ -1,0 +1,39 @@
+
+div{
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+}
+
+.child1{
+     height: 100px;
+     width: 100px;
+     border: 2px solid black;
+     display: inline-block;
+     margin: 10px;
+     text-align: center;
+     background-color: brown;
+}
+.child2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    background-color: brown;
+    
+}
+.child3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    background-color: brown;
+}
+.child2{
+
+    position: absolute;
+}

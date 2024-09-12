@@ -1,0 +1,23 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background-color: green;
+    animation-name:animation;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+    animation-delay: 0;
+    animation-iteration-count:2;
+    animation-duration: normal;
+}
+
+
+@keyframes animation{
+    form{
+        font-size: 20px;
+    }
+    to{
+        font-size: 70px;
+    }
+}
+
+

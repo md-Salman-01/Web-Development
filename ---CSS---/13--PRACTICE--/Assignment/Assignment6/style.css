@@ -1,0 +1,49 @@
+#container{
+     height: 400px;
+     width: 400px;
+     border: 5px solid rgb(3, 178, 209);
+     border-radius: 10px;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     align-items: center;
+}
+
+#child{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bolder; 
+    border-radius: 10px;
+    background-color: darkgrey;   
+    border: 3px solid black;
+   
+}
+
+
+
+#box{
+
+    margin-top: 200px;
+    height: 50px;
+    width: 900px;
+    border: 2px solid black;
+    background-color: pink;
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+}
+
+
+
+
+
+#kid{
+    height: 50px;
+    width: 80px;
+    font-size: 24px;
+    font-weight: bold;
+    align-content: center;
+}

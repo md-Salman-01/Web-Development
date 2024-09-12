@@ -1,0 +1,51 @@
+
+.Tribute{
+    height: 700px;
+    width: 500px;
+    background-color:burlywood;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin:0 auto;
+
+}
+
+img{
+    margin: 20px 0 10px 8px;
+    width: 220px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px black;
+}
+
+img:hover{
+    transition: 1s;
+    box-shadow: 10px 10px 20px black;
+}
+
+
+p{
+    font-weight: bold;
+    margin: 5px 0 0 10px;
+}
+
+h1{
+    margin: 0 0 0 7px;
+}
+
+h2{
+    margin: 15px 0 0 10px;
+}
+
+li{
+    font-weight: bold;
+}
+footer{
+    text-align: right;
+    
+}
+#kalam{
+ 
+    text-align:right;
+}
+a{
+    text-decoration: none;
+}

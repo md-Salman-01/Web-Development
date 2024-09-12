@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    background-color: gold;
+    text-align: center;
+    font-weight:bolder ;
+    text-decoration: coral dotted underline;
+    line-height: 80px;
+    font-size: 500%;
+    
+}
+p{
+    color: black;
+    background-color: yellow;
+    text-align: justify;
+    font-weight: bolder;
+    text-decoration: underline wavy;
+    text-decoration: red underline ;
+    line-height: 20px;
+    letter-spacing: 5px;
+}
+
+
+/* RGB */
+
+h1{
+    color: rgb(108,90,250);
+}
+
